@@ -14,3 +14,5 @@ Traceback (most recent call last):
 ZeroDivisionError: ...
     """
 
+
+empty = 1
